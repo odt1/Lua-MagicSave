@@ -1,0 +1,14 @@
+{
+	"Enabled": true,
+
+	"UseExtraSpecialSlot": false,
+	"UseInventorySlots": true,
+	"RemoveNoSaveItemAfterUse": false,
+	"RemoveAlwaysSurvivedItemAfterUse": true,
+
+	"MagicItemsId":
+	{
+		"NoSave": "5b3f3ade86f7746b6b790d8e",
+		"AlwaysSurvived": "5b3f3b0186f774021a2afef7"
+	}
+}
